@@ -17,6 +17,16 @@
 |Quick Sort       | Ω(n log(n))   |	θ(n log(n))	| O(n^2)    |
 |Merge Sort	      | Ω(n log(n))  	|θ(n log(n))	|O(n log(n))|
 |Bubble Sort	    |Ω(n)           | 	θ(n^2)	  | O(n^2)    |
+
 4.Applications of sorting
-|methods          |Applications      |
-|bubble sort      |ocean enginnering, |
+
+|methods              |Applications                                                         |
+|---------------------|---------------------------------------------------------------------|
+|Red black tree       |TreeSet, TreeMap, and Hashmap                                        |
+|minimum spanning tree|transportation networks, water supply networks, and electrical grids |
+|bubble sort          |ocean enginnering,                                                   |
+|merge sort           |useful for sorting linked lists, counting inversions in a list       |
+|quicksort            |commercial computing,information searching                           |
+|selection sort       |useful when memory write is a costly operation                       |
+|insertion sort       |the invigilator arranges the paper using insertion sort              |
+ 
