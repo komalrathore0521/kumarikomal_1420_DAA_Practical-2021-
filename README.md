@@ -1,5 +1,4 @@
-# kumarikomal_1420_DAA_Practical-2021-
-
+# DAA
 1.
 |Algorithm        |TimeComplexity |  
 |-----------------|:-------------:|
